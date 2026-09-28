@@ -26,7 +26,7 @@ leitor.question('Digite o primeiro número:\n>', (numero1) => {
             }
 
             if (resultado != null) {
-                console.log('O resultado da operação é: ', resultado);
+                console.log('O resultado da operação é esse novo: ', resultado);
             }
 
             leitor.close();
